@@ -47,13 +47,13 @@ It features responsive design, interactive sliders, product showcases, and smoot
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/home (2).png)
+![Homepage](./screenshots/home.png)
 
 ### 🛒 Collections Page
 ![Collections](./screenshots/collections.png)
 
 ### 📩 Contact Page
-![Contact](./screenshots/contact (2).png)
+![Contact](./screenshots/contact.png)
 
 
 ---
