@@ -8,7 +8,7 @@ It features responsive design, interactive sliders, product showcases, and smoot
 ---
 
 ## 🔗 Live Demo  
-👉 [Visit Nostra Live](<your-live-link>)  
+👉 [Visit Nostra Live](https://srinithish-dev-lab.github.io/Nostra-E-commerce/index.html)  
 
 ## 📂 Repository  
 👉 [GitHub Repo](https://github.com/Srinithish-dev-lab/Nostra-E-commerce)  
